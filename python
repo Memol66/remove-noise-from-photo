@@ -1,10 +1,10 @@
 import cv2
 from matplotlib import pyplot as plt
 
-# Read the image.654
+# Read the image
 img = cv2.imread('input_image.jpg')
 
-# Apply median filter to remove noise.3
+# Apply median filter to remove noise
 filtered_img = cv2.medianBlur(img, 3)  # Adjust the kernel size as needed
 
 # Display the original and filtered images
