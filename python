@@ -1,7 +1,7 @@
 import cv2
 from matplotlib import pyplot as plt
 
-# Read the image
+# Read the image000
 img = cv2.imread('input_image.jpg')
 
 # Apply median filter to remove noise
