@@ -1,4 +1,4 @@
-# 000000000000
+# 0000
 import cv2
 from matplotlib import pyplot as plt
 
